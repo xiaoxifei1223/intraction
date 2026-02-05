@@ -1,0 +1,7 @@
+metric,value
+prediction,-129.67427066219037
+lower,-1908.1909351378406
+upper,1637.7777812711174
+threshold,1716.8468332683678
+alert,0.0
+drift_detected,1.0

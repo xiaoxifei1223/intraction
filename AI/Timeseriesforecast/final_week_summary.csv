@@ -1,0 +1,6 @@
+metric,value
+prediction,1215.5
+lower,845.1819136006063
+upper,1585.8180863993935
+threshold,1716.8468332683678
+alert,0.0
